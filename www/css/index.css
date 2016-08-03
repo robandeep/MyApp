@@ -40,7 +40,7 @@ body {
     font-size:12px;
     height:100%;
     margin:0px;
-    padding:0px;
+    padding:10px;
     text-transform:uppercase;
     width:100%;
 }
@@ -72,12 +72,15 @@ body {
 h1 {
     font-size:24px;
     font-weight:normal;
-    margin:0px;
+    margin:50px;
     overflow:visible;
     padding:0px;
     text-align:center;
 }
-
+    p {
+        padding-right: 10px;
+        color: blue;
+    }
 .event {
     border-radius:4px;
     -webkit-border-radius:4px;
